@@ -6,7 +6,7 @@
   <link href="https://ottaliam.github.io/atom.xml" rel="self"/>
   
   <link href="https://ottaliam.github.io/"/>
-  <updated>2020-08-25T08:15:20.220Z</updated>
+  <updated>2020-08-25T13:18:24.041Z</updated>
   <id>https://ottaliam.github.io/</id>
   
   <author>
@@ -17,20 +17,14 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://ottaliam.github.io/2020/08/25/hello-world/"/>
-    <id>https://ottaliam.github.io/2020/08/25/hello-world/</id>
-    <published>2020-08-25T08:15:20.220Z</published>
-    <updated>2020-08-25T08:15:20.220Z</updated>
+    <title>A Test</title>
+    <link href="https://ottaliam.github.io/2020/08/25/2020-08-25-Test/"/>
+    <id>https://ottaliam.github.io/2020/08/25/2020-08-25-Test/</id>
+    <published>2020-08-25T13:09:31.366Z</published>
+    <updated>2020-08-25T13:18:24.041Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
+    <summary type="html">Simply a Test&lt;br&gt;</summary>
     
     
     
