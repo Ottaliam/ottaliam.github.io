@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>森罗万象</title>
   
-  
+  <subtitle>A somber reverie</subtitle>
   <link href="https://ottaliam.github.io/atom.xml" rel="self"/>
   
   <link href="https://ottaliam.github.io/"/>
-  <updated>2020-08-25T13:18:24.041Z</updated>
+  <updated>2020-08-27T12:16:20.571Z</updated>
   <id>https://ottaliam.github.io/</id>
   
   <author>
@@ -18,13 +18,13 @@
   
   <entry>
     <title>A Test</title>
-    <link href="https://ottaliam.github.io/2020/08/25/2020-08-25-Test/"/>
-    <id>https://ottaliam.github.io/2020/08/25/2020-08-25-Test/</id>
+    <link href="https://ottaliam.github.io/2020/08/25/Test/"/>
+    <id>https://ottaliam.github.io/2020/08/25/Test/</id>
     <published>2020-08-25T13:09:31.366Z</published>
-    <updated>2020-08-25T13:18:24.041Z</updated>
+    <updated>2020-08-27T12:16:20.571Z</updated>
     
     
-    <summary type="html">Simply a Test&lt;br&gt;</summary>
+    <summary type="html">Simply a Test</summary>
     
     
     
